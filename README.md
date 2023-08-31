@@ -1,11 +1,6 @@
 # Pathfinding Algorithms Visualizer
 # Live demo [link](http://ec2-13-48-203-0.eu-north-1.compute.amazonaws.com:3000)
 
-<img width="757" alt="Screenshot 2023-08-31 at 15 00 43" src="https://github.com/satqan/Pathfinding-Algorithms-Visualizer/assets/85357193/86875120-d701-4411-bc92-aaec54412c11">
-
-
-
-<img width="1403" alt="Screenshot 2023-08-31 at 15 02 28" src="https://github.com/satqan/Pathfinding-Algorithms-Visualizer/assets/85357193/76c688dd-9562-48bb-a60e-9e7460ce8e60">
-
-
-<img width="757" alt="Screenshot 2023-08-31 at 15 01 04" src="https://github.com/satqan/Pathfinding-Algorithms-Visualizer/assets/85357193/ad7ecf7d-a424-4601-948d-9e52082ab35e">
+<img width="1512" alt="Screenshot 2023-08-31 at 15 05 13" src="https://github.com/satqan/Pathfinding-Algorithms-Visualizer/assets/85357193/50719e34-04ba-40e4-aae1-c4b4215f2209">
+<img width="1512" alt="Screenshot 2023-08-31 at 15 05 21" src="https://github.com/satqan/Pathfinding-Algorithms-Visualizer/assets/85357193/75ad617c-5f42-4f58-a885-5e0028bfb32d">
+<img width="1512" alt="Screenshot 2023-08-31 at 15 05 29" src="https://github.com/satqan/Pathfinding-Algorithms-Visualizer/assets/85357193/12ce6db8-bdc6-4745-b6aa-4161c8bad70a">
